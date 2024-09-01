@@ -1,2 +1,2 @@
 # taxi_app
-Taxi Application implementation of microservice architecture with monorepo strategy.
+Taxi Application with customer and driver mobile apps, built using a microservice architecture in a monorepo.
