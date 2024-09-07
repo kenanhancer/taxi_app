@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": ["./services"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "cSpell.words": [
+    "boto"
+  ],
+}
